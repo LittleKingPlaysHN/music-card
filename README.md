@@ -81,16 +81,6 @@ Cada opción tiene su método encadenable: `setStyle`, `setTitle`, `setArtist`, 
 
 `MusicCard`, `MUSIC_STYLES`, `MUSIC_WIDTH`, `MUSIC_HEIGHT` y `formatDuration(ms)`.
 
-## Bot de prueba
-
-En `examples/test-bot` hay un bot con el comando `/test2` para previsualizar los estilos. Copia `.env.example` a `.env`, rellena los datos y ejecuta:
-
-```bash
-cd examples/test-bot
-npm install
-npm start
-```
-
 ## Licencia
 
 MIT. La fuente Nunito se distribuye bajo la SIL Open Font License 1.1 (ver `assets/fonts/Nunito-OFL.txt`).
